@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Marko</h1>
+<h3>👋 Hi there! I'm currently diving deep into Laravel, exploring the ins and outs of web development. I'm passionate about learning new technologies, refining my skills, and tackling fresh challenges every day. Always eager to expand my knowledge and contribute to impactful projects. Let’s build something awesome together!</h3>
 
-<!--
-**shiljkovski/shiljkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Laravel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/marko-shiljkovski-60228a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-Logo" height="30" width="40" /></a>
+</p>
+
