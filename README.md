@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marko</h1>
 <h3>👋 Hi there! I'm currently diving deep into Laravel, exploring the ins and outs of web development. I'm passionate about learning new technologies, refining my skills, and tackling fresh challenges every day. Always eager to expand my knowledge and contribute to impactful projects. Let’s build something awesome together!</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my 3rd project in **Laravel**
 
 - 🌱 I’m currently learning **Laravel**
 
